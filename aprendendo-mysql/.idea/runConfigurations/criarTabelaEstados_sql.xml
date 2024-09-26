@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="criarTabelaEstados.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/src/criarTabelaEstados.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="2588f43a-f210-4269-b477-5ec8e4ae7565" namespace="schema/&quot;mysql&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
